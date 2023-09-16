@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Cursos\senai\projetoLHPets\Projeto_Web-Lh_Pets_Alunos\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos.exe
+C:\Users\User\Documents\Cursos\senai\projetoLHPets\Projeto_Web-Lh_Pets_Alunos\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\User\Documents\Cursos\senai\projetoLHPets\Projeto_Web-Lh_Pets_Alunos\bin\Release\net6.0\publish\appsettings.json
+C:\Users\User\Documents\Cursos\senai\projetoLHPets\Projeto_Web-Lh_Pets_Alunos\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos.dll
+C:\Users\User\Documents\Cursos\senai\projetoLHPets\Projeto_Web-Lh_Pets_Alunos\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos.deps.json
+C:\Users\User\Documents\Cursos\senai\projetoLHPets\Projeto_Web-Lh_Pets_Alunos\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+C:\Users\User\Documents\Cursos\senai\projetoLHPets\Projeto_Web-Lh_Pets_Alunos\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos.pdb
+C:\Users\User\Documents\Cursos\senai\projetoLHPets\Projeto_Web-Lh_Pets_Alunos\bin\Release\net6.0\publish\Npgsql.dll
